@@ -16,10 +16,12 @@
 * Kaichao Sun (kaichao@parity.io)
 * Maggie Dong (maggie@parity.io)
 * Jun Zhou (junius@parity.io)
-* Bin Guo ()
-* Lipeng Yue ()
-* Aten ()
-* Mike Tang ()
+* Bin Guo (1069830494@qq.com)
+* Lipeng Yue (yuelipeng@gmail.com)
+* Aten (jincxmain@gmail.com)
+* Mike Tang (daogangtang@live.com)
+* Yangyu Li (lester123@live.cn)
+* Jimmy Chu (jimmy@parity.io)
 
 其它资源，如黑客松参赛团队，Substrate 大使。
 
