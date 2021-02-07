@@ -23,6 +23,7 @@
 * Yangyu Li (lester123@live.cn)
 * Jimmy Chu (jimmy@parity.io)
 * Qiang Li (max@outman.com)
+* Bo Yuan (boyuan@buaa.edu.cn)
 
 其它资源，如黑客松参赛团队，Substrate 大使。
 
