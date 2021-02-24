@@ -30,6 +30,7 @@
 ## 会议列表
 
 * 双周会
+* [会议记录](./archive/meeting_summary.md)
 
 
 ## 任务
