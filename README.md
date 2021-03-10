@@ -34,8 +34,8 @@
 
 
 ## 任务
-
-[任务拆解](https://docs.google.com/spreadsheets/d/109i2MazaxlTuHeGkm9srD9JeFJcp299UyHxR0Bn27ak/edit?usp=sharing)
+* 协作仓库：https://github.com/ParityAsia/substrate 分支：dev
+* [任务拆解](https://docs.google.com/spreadsheets/d/109i2MazaxlTuHeGkm9srD9JeFJcp299UyHxR0Bn27ak/edit?usp=sharing)
 
 
 
