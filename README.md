@@ -2,7 +2,7 @@
 
 ## 目标
 
-基于 Substrate 进行底层开发，完成[《金融分布式账本技术安全规范》](https://www.cfstc.org/bzgk/gk/view/bzxq.jsp?i_id=1855)，[PDF版本](./archive/financial_distributed_ledger_spec.pdf)规定的内容。
+基于 Substrate 进行底层开发，完成 [《金融分布式账本技术安全规范》](https://www.cfstc.org/bzgk/gk/view/bzxq.jsp?i_id=1855) 规定的内容。
 
 ## 原则
 
@@ -30,15 +30,17 @@
 ## 会议列表
 
 * 双周会
-* [会议记录](./archive/meeting_summary.md)
-
+* [会议记录](./docs/meeting_summary.md)
 
 ## 任务
-* 协作仓库：https://github.com/ParityAsia/substrate 分支：dev
+
+* 协作仓库：[https://github.com/ParityAsia/substrate 分支：dev](https://github.com/ParityAsia/substrate/tree/dev)
 * [任务拆解](https://docs.google.com/spreadsheets/d/109i2MazaxlTuHeGkm9srD9JeFJcp299UyHxR0Bn27ak/edit?usp=sharing)
 
+## 相关文件
 
+* [《金融分布式账本技术安全规范》PDF 版本](./references/financial_distributed_ledger_spec.pdf)
 
+## 相关链接
 
-
-
+* [电子标准院区块链系统测试简介](https://mp.weixin.qq.com/s/CEmvqjGke-UMCscEZo5RRw) (2021-03-16)
