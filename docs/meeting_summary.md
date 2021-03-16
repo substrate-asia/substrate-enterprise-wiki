@@ -48,6 +48,9 @@ comments from Guo Bin,
 节点身份验证这块的需求，我们做了初步梳理，以及参照fabric的文档，开展初步设计
 https://shimo.im/sheets/WRDdHQKCvc6YJdhy/MODOC/ 《节点通信需求调研情况》
 
+*Jimmy:*
+
+更新了[Google sheet - task details](https://docs.google.com/spreadsheets/d/109i2MazaxlTuHeGkm9srD9JeFJcp299UyHxR0Bn27ak/edit#gid=0) 账本数据 一节。
 
 ## 2020-02-25
 
