@@ -1,6 +1,17 @@
 # 会议记录
 
-## 2020-03-11
+## 2021-03-25
+
+**Updates & Actions:**
+
+* CA的使用文档 - Junius
+* 确认信通院的测试是否需要CA - Li Qiang
+* 加密链上数据功能 - Jimmy
+* 授权读取链上内容（如使用Kong gateway）, 信通院有没有明确规定 - Jimmy
+* 国密第一版这个星期应该可以写好 - Maggie
+* Skip empty blocks [disscussion here](https://github.com/paritytech/substrate/issues/7952) - Kaichao
+
+## 2021-03-11
 
 Meeting cancelled.
 
