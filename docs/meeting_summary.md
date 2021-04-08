@@ -1,11 +1,22 @@
 # 会议记录
 
+## 2021-04-08
+
+**Actions & Updates:**
+
+* 现有CA是否满足测试要求 - Lester
+* 测试国密
+* 添加rhd共识 - Kaichao
+* ink合约的押金模型，多种token支付手续费 - Lipeng
+* runtime 账户的权限管理
+* administration 浏览器、综合管理器
+
 ## 2021-03-25
 
 **Updates & Actions:**
 
-* CA的使用文档 - Junius
-* 确认信通院的测试是否需要CA - Li Qiang
+* CA的使用文档 done - Junius
+* 确认信通院的测试是否需要 CA - Li Qiang
 * 加密链上数据功能 - Jimmy
 * 授权读取链上内容（如使用Kong gateway）, 信通院有没有明确规定 - Jimmy
 * 国密第一版这个星期应该可以写好 - Maggie
