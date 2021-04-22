@@ -1,5 +1,12 @@
 # 会议记录
 
+## 2021-04-22
+
+**Actions & Updates:**
+
+* 尽快启动联盟链的测试，用实际测试中Fail的用例来驱动后面的开发 - Guobin，Yuan Bo
+* GPLv-3是否允许让国内联盟链的团队任意修改代码 - Junius
+
 ## 2021-04-08
 
 **Actions & Updates:**
