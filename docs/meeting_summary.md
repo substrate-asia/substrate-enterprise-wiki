@@ -1,5 +1,14 @@
 # 会议记录
 
+## 2021-05-20
+
+*Updates:* 
+
+* 合作意向的讨论，
+	* 深入的 1对1 合作
+	* Parity 发起 Substrate alliance association
+	* 加入国内的某个联合发起方
+
 ## 2021-04-22
 
 **Actions & Updates:**
